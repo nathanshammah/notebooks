@@ -1,6 +1,6 @@
 pip==19
-cython>=0.21
+cython>=0.29.*
 numpy>=1.16
-scipy>=0.14
-matplotlib>=1.2
+scipy>=1.2
+matplotlib>=3.*
 qutip>=4.3
