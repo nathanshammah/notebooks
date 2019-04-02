@@ -1,0 +1,10 @@
+name: Nathanenv
+dependencies:
+- python==3.6
+- pip=18
+- matplotlib
+- nbconvert
+- notebook
+- ipywidgets
+- pip:
+  - qiskit
