@@ -1,0 +1,5 @@
+cython>=0.29.*
+numpy>=1.16.*
+scipy>=1.2.*
+matplotlib>=3.0.*
+qutip>=4.3
