@@ -7,4 +7,6 @@ dependencies:
 - matplotlib
 - nbconvert
 - notebook
-- qutip
+- pip:
+  - qutip
+
