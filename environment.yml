@@ -7,4 +7,5 @@ dependencies:
 - notebook
 - ipywidgets
 - pip:
+  - cython
   - qutip
